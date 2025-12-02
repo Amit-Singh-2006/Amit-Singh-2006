@@ -22,7 +22,6 @@
 # 🌙 **About Me**
 🌟 Passionate **Full-Stack Developer & Future AI Engineer**  
 💻 I create **AI models**, **ML projects**, and **dynamic web apps**  
-🏆 Hackathon Winner — *Movie Recommendation System*  
 🚀 On a journey to master **AI + ML + Web Dev**
 
 ---
@@ -48,30 +47,14 @@
 ![Badge](https://img.shields.io/badge/AI%20Project-Health-blue?style=flat-square)
 - Smart triage & basic health guidance  
 - Python + rule-based decision system  
-
-### 🎬 **Movie Recommendation System — 🥇 Hackathon Winner**  
-![Badge](https://img.shields.io/badge/ML-Content_Based_Model-orange?style=flat-square)
-- Achieved **1st Position**  
-- Recommends movies using similarity & features  
+ 
 
 ### 🚦 **Smart Traffic Control System**
 ![Badge](https://img.shields.io/badge/IOT%20%2B%20AI-Traffic-green?style=flat-square)
 - Traffic density detection  
 - Optimization of signal timings  
 
-### 📊 **Daily Life Tracker**
-![Badge](https://img.shields.io/badge/Utility-Productivity-yellow?style=flat-square)
-- Habit & routine tracker  
 
-### 😊 **Sentiment Analysis**
-![Badge](https://img.shields.io/badge/NLP-Sentiment-blueviolet?style=flat-square)
-- POS / NEG / NEUTRAL classification  
-- Python NLP techniques  
-
-### 🌐 **Portfolio Website**
-![Badge](https://img.shields.io/badge/Web-Portfolio-lightgrey?style=flat-square)
-- Responsive, aesthetic design  
-- HTML + CSS + JS  
 
 ---
 
@@ -134,8 +117,8 @@
 
 # 📬 **Connect With Me**
 
-📧 **Email:** *chayankhatua2006@gmail.com*  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/chayan-khatua-8880851bb/*  
+📧 **Email:** **  
+🔗 **LinkedIn:** **  
 🐙 **GitHub:** *https://github.com/Amit-Singh-2006*
 
 ---
