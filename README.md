@@ -117,8 +117,8 @@
 
 # 📬 **Connect With Me**
 
-📧 **Email:** **  
-🔗 **LinkedIn:** **  
+📧 **Email:** *amit.panwar2k6@gmail.com*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/amit-singh-panwar-917b16379*  
 🐙 **GitHub:** *https://github.com/Amit-Singh-2006*
 
 ---
